@@ -28,7 +28,7 @@ Off the Cuff Ideas
 - Project overview/synopsis to initiate people who are just passing by and don't have time to look at the dialog.
 - Easy but sophisticated tagging and categorizing system for Topics/Conversations.
 - System in the vein of Wikipedia and StackOverflow.com, where the community keeps things in order; everything is editable (but tracked) and because, ultimately, it's for the good of the community everything posted would be licenced (StackOverflow.com uses the Creative Commons license).
-- 
+- ...
 
 Example Topics
 --------------
