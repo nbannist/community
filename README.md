@@ -45,7 +45,7 @@ Features
 3. General Lists (list of similar projects, possible grants, etc.).
 4. Distilled document. This would be a differently formated document. Not a tree, more of a proposal format.
 5. Images. Because a picture says a thousand words. (: Maybe not host images but embed from say Flicker, Picasa, etc.
-6. Video. Same as with images. That way people can use whatever service they prefer and can share it to other places without having to learn a new API or 
+6. Video. Same as with images. That way people can use whatever service they prefer and can share it to other places without having to learn a new API.
 
 
 Possible Use Cases
@@ -58,6 +58,7 @@ Possible Use Cases
  - Find projects in their communities that they would like to contribute to.
  - Find people to start a project with a particular goal in mind. (maybe it's better to just start a project?)
  - Advertise project ideas or problems to get people interested. Classifieds for projects/problems.
+ - Help with getting ideas from a community on a new policy/law.
 
 
 
